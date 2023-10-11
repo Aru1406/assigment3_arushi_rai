@@ -1,3 +1,4 @@
+Overview:
 
 The MLOps (Machine Learning Operations) lifecycle is an essential framework that enables organizations to manage and operationalize machine learning models efficiently and reliably. MLOps integrates with other key practices such as DevOps, DataOps, and ModelOps to create a comprehensive and cohesive approach to the end-to-end management of machine learning solutions. In this writeup, we'll explore the MLOps lifecycle and its integration with these related disciplines.
 
